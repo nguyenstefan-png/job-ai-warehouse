@@ -1,0 +1,201 @@
+date,skill,job_count
+2026-02-14,sql,12
+2026-02-14,python,10
+2026-02-14,aws,8
+2026-02-12,python,6
+2026-02-12,sql,5
+2026-02-17,sql,5
+2026-02-17,python,4
+2026-02-16,ai,3
+2026-02-14,databricks,3
+2026-02-14,azure,3
+2026-02-16,sql,3
+2026-02-12,aws,3
+2026-02-16,python,3
+2026-01-24,azure,2
+2026-01-24,gcp,2
+2026-02-14,airflow,2
+2026-02-14,spark,2
+2026-02-14,communication,2
+2026-02-13,python,2
+2026-02-14,snowflake,2
+2026-01-24,aws,2
+2026-02-16,ml,2
+2026-02-13,sql,2
+2026-02-17,accounting,2
+2026-02-14,dbt,2
+2026-02-14,customer success,2
+2026-01-24,git,1
+2026-02-16,designer,1
+2026-02-14,growth marketing,1
+2026-02-12,production,1
+2026-02-13,tableau,1
+2026-02-12,quality tools,1
+2026-02-14,mysql,1
+2026-02-12,brand voice,1
+2026-02-12,kubernetes,1
+2026-02-13,dbt,1
+2026-02-13,post-production,1
+2026-02-14,leadership,1
+2026-02-17,jira,1
+2026-02-17,business administration,1
+2026-02-13,management,1
+2026-02-17,react,1
+2026-01-18,docker,1
+2026-02-17,ai,1
+2026-01-18,aws,1
+2026-02-12,google_ads,1
+2026-02-17,benefits,1
+2026-02-14,terraform,1
+2026-02-12,meta_ads_manager,1
+2026-02-17,blockchain explorers,1
+2026-02-13,git,1
+2026-02-16,scouse,1
+2026-02-12,onboarding,1
+2026-02-14,tableau,1
+2026-02-14,taegis,1
+2026-02-17,workday,1
+2026-02-14,infrastructure_as_code,1
+2026-02-14,email,1
+2026-01-24,kafka,1
+2026-02-13,machining hours,1
+2026-02-16,personal,1
+2026-02-14,javascript,1
+2026-02-17,fcss,1
+2026-02-12,quality control,1
+2026-02-13,contract management,1
+2026-02-15,account,1
+2026-01-24,sql,1
+2026-02-14,kubernetes,1
+2026-02-14,ssh,1
+2026-02-17,general ledger,1
+2026-02-17,financial_models,1
+2026-01-23,spark,1
+2026-02-14,quality,1
+2026-02-13,manufacturing processes,1
+2026-02-13,kubernetes,1
+2026-02-17,employee relations,1
+2026-02-17,figma,1
+2026-02-17,d365,1
+2026-01-23,pyspark,1
+2026-02-17,epm,1
+2026-02-17,talent management,1
+2026-02-14,mariadb,1
+2026-02-14,agile,1
+2026-02-12,adoption,1
+2026-02-17,policy management,1
+2026-02-14,credit,1
+2026-02-12,dbt,1
+2026-02-14,data proficiency,1
+2026-02-14,react,1
+2026-02-12,content strategy,1
+2026-02-17,hcm,1
+2026-02-17,planning_cloud,1
+2026-02-14,sales,1
+2026-01-23,hadoop,1
+2026-02-12,engineering,1
+2026-02-17,typescript,1
+2026-02-14,angular,1
+2026-01-23,aws,1
+2026-02-16,visual design,1
+2026-02-14,onboarding,1
+2026-02-13,project management,1
+2026-02-14,ci_cd,1
+2026-02-13,databricks,1
+2026-02-12,manufacturing,1
+2026-02-17,recruiting,1
+2026-02-14,engagement,1
+2026-02-13,storytelling,1
+2026-02-13,post-processing,1
+2026-02-17,epbcs,1
+2026-02-12,snp crystalbridge,1
+2026-02-15,linkedin,1
+2026-02-12,salesforce,1
+2026-02-15,crm,1
+2026-01-23,azure,1
+2026-02-13,editing,1
+2026-02-17,microsoft office,1
+2026-02-14,customer onboarding,1
+2026-02-17,compliance matrices,1
+2026-02-17,hris,1
+2026-02-15,phone,1
+2026-02-14,postgres,1
+2026-02-14,operational strength,1
+2026-02-17,ux ui design,1
+2026-02-09,git,1
+2026-02-15,email,1
+2026-02-17,javascript,1
+2026-02-14,enrollment,1
+2026-01-23,python,1
+2026-02-16,tableau,1
+2026-02-14,devops,1
+2026-02-14,risk management,1
+2026-01-18,kubernetes,1
+2026-02-17,product ownership,1
+2026-02-13,youtube,1
+2026-02-14,training,1
+2026-02-14,implementation,1
+2026-02-13,cnc,1
+2026-02-14,slack,1
+2026-02-13,operations,1
+2026-02-12,sap,1
+2026-02-13,customer success,1
+2026-02-17,payroll,1
+2026-02-16,git,1
+2026-02-12,spark,1
+2026-02-17,java,1
+2026-02-14,data,1
+2026-02-14,looker,1
+2026-02-13,analytics reporting,1
+2026-02-14,css,1
+2026-02-13,sheet metal,1
+2026-02-12,airflow,1
+2026-02-14,hedis,1
+2026-02-14,varonis,1
+2026-02-14,slas,1
+2026-02-12,linkedin_ads,1
+2026-02-12,expansion,1
+2026-02-17,scoring criteria,1
+2026-02-16,executive,1
+2026-02-12,program management,1
+2026-02-17,review cycles,1
+2026-02-12,ai,1
+2026-02-17,financial accounting,1
+2026-02-14,cloud,1
+2026-02-12,renewals,1
+2026-02-17,compliance,1
+2026-02-17,essbase,1
+2026-02-13,gcp,1
+2026-02-14,problem_solving,1
+2026-02-14,coaching,1
+2026-02-14,security,1
+2026-02-14,workforce,1
+2026-02-14,docker,1
+2026-01-18,terraform,1
+2026-02-12,value realization,1
+2026-02-12,google_campaign_manager,1
+2026-02-16,speech recording,1
+2026-02-12,s4hana,1
+2026-02-13,team leadership,1
+2026-02-13,spark,1
+2026-02-17,proposal development,1
+2026-02-17,hyperion,1
+2026-02-06,python,1
+2026-02-17,investigations,1
+2026-02-14,html,1
+2026-01-23,sql,1
+2026-02-14,typescript,1
+2026-02-17,oracle,1
+2026-02-12,customer success,1
+2026-02-17,finance,1
+2026-02-15,sales,1
+2026-02-13,airflow,1
+2026-02-12,design,1
+2026-01-23,databricks,1
+2026-02-14,crowdstrike,1
+2026-02-13,docker,1
+2026-02-13,aws,1
+2026-02-14,gcp,1
+2026-02-14,organization,1
+2026-02-16,assistant,1
+2026-02-14,elasticsearch,1

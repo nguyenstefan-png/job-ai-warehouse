@@ -1,0 +1,134 @@
+seniority,skill,job_count
+senior,python,10
+senior,sql,7
+intern,aws,6
+junior,sql,5
+intern,python,5
+intern,sql,5
+staff,sql,4
+senior,kubernetes,4
+intern,azure,4
+senior,aws,4
+senior,git,3
+junior,aws,3
+junior,python,3
+senior,docker,3
+senior,ai,2
+lead,databricks,2
+mid,python,2
+intern,gcp,2
+senior,databricks,2
+staff,python,2
+senior,ml,2
+junior,customer success,2
+senior,gcp,2
+mid,sql,2
+intern,snowflake,2
+junior,tableau,2
+staff,leadership,1
+senior,spark,1
+staff,finance,1
+senior,mysql,1
+mid,design,1
+staff,essbase,1
+junior,jira,1
+senior,javascript,1
+lead,azure,1
+staff,risk management,1
+lead,aws,1
+staff,planning_cloud,1
+senior,react,1
+lead,meta_ads_manager,1
+junior,hris,1
+staff,accounting,1
+junior,security,1
+intern,tableau,1
+senior,data proficiency,1
+junior,recruiting,1
+lead,google_ads,1
+staff,sales,1
+mid,ai,1
+junior,brand voice,1
+intern,postgres,1
+senior,airflow,1
+junior,customer onboarding,1
+senior,terraform,1
+lead,hadoop,1
+principal,review cycles,1
+junior,devops,1
+junior,dbt,1
+principal,scoring criteria,1
+lead,sql,1
+junior,cloud,1
+mid,machining hours,1
+junior,content strategy,1
+junior,java,1
+mid,taegis,1
+intern,airflow,1
+intern,spark,1
+intern,terraform,1
+staff,epbcs,1
+junior,quality control,1
+staff,aws,1
+staff,linkedin,1
+senior,operational strength,1
+staff,crm,1
+senior,css,1
+mid,program management,1
+junior,implementation,1
+staff,fcss,1
+principal,proposal development,1
+junior,agile,1
+junior,benefits,1
+mid,cnc,1
+junior,react,1
+lead,python,1
+staff,airflow,1
+staff,spark,1
+junior,infrastructure_as_code,1
+staff,epm,1
+junior,javascript,1
+junior,hcm,1
+junior,payroll,1
+staff,financial_models,1
+lead,google_campaign_manager,1
+junior,product ownership,1
+intern,looker,1
+staff,account,1
+junior,ci_cd,1
+senior,html,1
+principal,sql,1
+staff,data,1
+mid,manufacturing processes,1
+staff,oracle,1
+lead,spark,1
+senior,kafka,1
+lead,pyspark,1
+mid,sheet metal,1
+intern,databricks,1
+staff,credit,1
+staff,business administration,1
+junior,workday,1
+staff,ai,1
+lead,linkedin_ads,1
+senior,growth marketing,1
+senior,dbt,1
+senior,elasticsearch,1
+mid,crowdstrike,1
+senior,angular,1
+intern,dbt,1
+mid,varonis,1
+senior,typescript,1
+junior,talent management,1
+staff,phone,1
+junior,airflow,1
+mid,aws,1
+junior,spark,1
+staff,email,1
+senior,azure,1
+mid,post-processing,1
+intern,git,1
+junior,typescript,1
+principal,compliance matrices,1
+staff,dbt,1
+staff,hyperion,1
