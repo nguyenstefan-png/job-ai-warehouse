@@ -4,6 +4,16 @@ An end-to-end **data engineering pipeline** that ingests live job postings, enri
 
 ---
 
+## 📸 Dashboard Preview
+
+### Overview
+![Dashboard Overview](assets/dashboard-overview.png)
+
+### Job Listings
+![Job Table](assets/job-table.png)
+
+---
+
 ## 🏗 Architecture
 
 ```
