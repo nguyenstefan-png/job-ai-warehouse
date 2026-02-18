@@ -1,0 +1,18 @@
+# local env + secrets
+.env
+
+# virtual env
+.venv/
+
+# database / data artifacts
+data/
+*.duckdb
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor
+.DS_Store
+.vscode/
