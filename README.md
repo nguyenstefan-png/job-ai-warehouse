@@ -1,5 +1,7 @@
 # 🚀 Job Market AI Warehouse
 
+🔗 Live App: https://job-ai-warehouse.streamlit.app/
+
 An end-to-end **data engineering pipeline** that ingests live job postings, enriches them with AI-extracted skills and seniority using a local LLM, and serves analytics through a Streamlit dashboard.
 
 ---
