@@ -1,6 +1,6 @@
-streamlit==1.35.0
-duckdb==0.10.3
-pandas==2.2.2
-requests==2.32.3
-pydantic==2.7.1
-python-dotenv==1.0.1
+streamlit
+duckdb
+pandas
+requests
+pydantic
+python-dotenv
