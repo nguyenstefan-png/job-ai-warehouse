@@ -21,6 +21,7 @@ st.markdown(
 
 # ── Load CSV data ─────────────────────────────────────────────────────────────
 ASSETS = Path(__file__).parent.parent / "assets"
+st.write(str(ASSETS))  # temporary debug line
 
 @st.cache_data
 def load_data():
